@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Semantics"
+    ]
+  ],
+  "legacy_uid": "0aa8d3b2-d6a2-eb76-a81b-351a15e78c13",
+  "instructors": {
+    "content": [
+      "5d2bfa33-73b5-b1e9-2b35-34840a250785",
+      "65310180-b786-6c6c-a78c-1d553125abf3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "809b493c-49c1-9623-e692-29072d9b8875",
+    "website": "24-979-topics-in-semantics-fall-2002"
+  },
+  "course_title": "Topics in Semantics",
+  "course_description": "This seminar will investigate the expression of gradability, comparison and degree in natural language. The course will address the following major issues, though we may also include other topics according to the interests and direction of the class:\n\n*   The underlying semantic representation of expressions of degree and the linguistic significance of scalar representations\n*   The logical form of comparative constructions, and the implications of comparatives for other aspects of the grammar\n*   The semantics of degree and the role of scalar representations in grammatical categories other than gradable adjectives\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.979",
+  "course_image_thumbnail": {
+    "content": "52b4b906-ed74-0186-81fd-2a1e451171c8",
+    "website": "24-979-topics-in-semantics-fall-2002"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "4eaf7cff-75ee-40c9-9d73-bf2378115bc8",
+  "site_short_id": "24.979-fall-2002",
+  "site_url_path": "courses/24-979-topics-in-semantics-fall-2002",
+  "title": "Course Metadata"
+}
